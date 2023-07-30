@@ -83,7 +83,6 @@ https://book-search-challenge-21-mern.herokuapp.com/
 # License
 ![license badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
-# Questions?
-## Please contact me:
+## Profile
   [My GitHub Profile](https://github.com/JustinBugarin)
 
