@@ -1,4 +1,4 @@
-# Google Book Search MERN Stack Challenge
+# Book Search Engine
 
 ## Summary
 
@@ -32,7 +32,7 @@ AS AN avid reader
 I WANT to search for new books to read
 SO THAT I can keep a list of books to purchase
 
-#Acceptance Criteria
+# Acceptance Criteria
 
 GIVEN a book search engine
 WHEN I load the search engine
@@ -76,19 +76,12 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 # Heroku
 
+https://book-search-challenge-21-mern.herokuapp.com/
 
 # License
 ![license badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
-# Contributing
-​Contributors: N/A
-
-# Tests
-N/A
-
 # Questions?
 ## Please contact me:
-  * [My GitHub Profile](https://github.com/jcgom3)
-  * [My Github Project Repository](https://github.com/jcgom3/Challenge-21-MERN-Book-Search-Engine/tree/master)
-  * [My Github Deployed IO](https://jcgom3.github.io/Challenge-21-MERN-Book-Search-Engine/)
-  * Email us at: [Jcgom3@gmail.com](mailto:Jcgom3@gmail.com) with questions or make an issue about this project.
+  [My GitHub Profile](https://github.com/JustinBugarin)
+
