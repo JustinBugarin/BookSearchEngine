@@ -17,7 +17,12 @@ Usage of Google Books API to create an Graql API with Apollo Server. MERN stack 
 * Dotenv
 * Heroku
 
-
+# Installation & Database SetUp
+* To use this app npm init has to be called to create your package.json file.
+* The following necessary Npm dependencies must be installed to run the application properly: the needed dependencies will be found on the package.json file.
+* To properly install the database you must create at cluster on Mongodb atlas.
+* Run "npm start" for the port to start listening with mongoose.
+* This app is deployed on Heroku
 
 # Snapshot
 
@@ -65,14 +70,6 @@ SO THAT I can keep a list of books to purchase
 * THEN that book is deleted from my saved books list
 * WHEN I click on the Logout button
 * THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button 
-
-# Installation & Database SetUp
-* To use this app npm init has to be called to create your package.json file.
-* The following necessary Npm dependencies must be installed to run the application properly: the needed dependencies will be found on the package.json file.
-* To properly install the database you must create at cluster on Mongodb atlas.
-* Run "npm start" for the port to start listening with mongoose.
-* This app is deployed on Heroku
-
 
 
 
